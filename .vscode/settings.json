@@ -1,0 +1,7 @@
+{
+    "editor.fontLigatures": false,
+    "files.associations": {
+        "*.html.erb": "erb"
+      }
+      
+}
